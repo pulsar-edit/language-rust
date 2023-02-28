@@ -1,6 +1,4 @@
-### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/language-rust-bundled), please direct all issues and pull requests there in the future!
-
----
+# This Repo is now Archived because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
 
 # language-rust-bundled
 
